@@ -1,0 +1,70 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+
+.section4{
+    width: 1440px;
+    height: 780px;
+    background: #9DC9C8;
+}
+.section4-container{
+    padding-top: 179px;
+    padding-left: 121px;
+    padding-bottom: 185px;
+} 
+.section4-h1{
+    width: 908px;
+    height: 66px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 56px;
+}
+.section4-text1{
+    width: 170px;
+    height: 32px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 25px;
+}
+.section4-text2{
+    width: 481px;
+    height: 181px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 81px;
+    margin-top: -40px;
+}
+.section4-div{
+    display: flex;
+    margin-top: -110px;
+}
+.section4-text{
+    margin-right: 70px;
+}
+.section4-text h5{
+    width: 294px;
+    height: 32px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 25px;
+}
+ .section4-text p{
+    width: 294px;
+    height: 70px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 18px;
+} 
